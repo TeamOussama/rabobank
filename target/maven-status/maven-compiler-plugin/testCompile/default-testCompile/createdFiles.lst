@@ -1,0 +1,6 @@
+com/rabobank/socle/integration/network/UserControllerTest.class
+com/rabobank/socle/integration/authentication/AuthControllerOAuthTest.class
+com/rabobank/socle/integration/SocleJavaApplicationTests.class
+com/rabobank/socle/unit/UserServiceUnitTest.class
+com/rabobank/socle/unit/StatementRecordServiceUnitTest.class
+com/rabobank/socle/integration/authentication/AuthControllerPasswordTest.class

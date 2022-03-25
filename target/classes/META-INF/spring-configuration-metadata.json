@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.rabobank.socle.authentication.entity.Properties",
+      "sourceType": "com.rabobank.socle.authentication.entity.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.access-token-secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.rabobank.socle.authentication.entity.Properties"
+    },
+    {
+      "name": "jwt.access-token-validity-in-milliseconds",
+      "type": "java.lang.Long",
+      "sourceType": "com.rabobank.socle.authentication.entity.Properties"
+    },
+    {
+      "name": "jwt.refresh-token-secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.rabobank.socle.authentication.entity.Properties"
+    },
+    {
+      "name": "jwt.refresh-token-validity-in-milliseconds",
+      "type": "java.lang.Long",
+      "sourceType": "com.rabobank.socle.authentication.entity.Properties"
+    }
+  ],
+  "hints": []
+}
